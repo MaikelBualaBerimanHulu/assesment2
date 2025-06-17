@@ -68,7 +68,7 @@ public class BurgerSteps {
         addEdge("serve bread", "eat");
         addEdge("add some pickles", "eat");
         addEdge("pour sauce over patty", "eat");
-        
+
 
         System.out.println();
         bfs("preheat oven");
